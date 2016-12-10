@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SystemStatusBarTextColor</string>
+    <string name="not_progress_title">标题</string>
+    <string name="not_progress_content">内容，看字体颜色</string>
+</resources>
