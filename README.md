@@ -11,5 +11,6 @@
     我们可以新建一个通知，这个通知只是用来获取系统主题的字体，不要post到通知栏。获取通知的contentView，遍历一遍所有的子View，找到所有的TextView，通过验证，这些所有TextVIew里面，字体最大的颜色值和系统默认通知的标题颜色值一样，字体最小的颜色值和系统默认通知的内容颜色值一样，ok，解决了。
 ### 相关
 
-    参考http://www.jianshu.com/p/426d85f34561
     具体步骤参看demo-SystemStatusBarTextColor。
+    
+    参考http://www.jianshu.com/p/426d85f34561
